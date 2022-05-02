@@ -1,0 +1,9 @@
+.card {
+  display: flex;
+  border: 2px solid green;
+
+  &__details {
+    display: flex;
+    flex-direction: column;
+  }
+}
