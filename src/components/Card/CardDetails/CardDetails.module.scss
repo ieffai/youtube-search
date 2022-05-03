@@ -1,0 +1,26 @@
+.details {
+  display: flex;
+  flex-direction: column;
+  padding: 3px;
+  justify-content: space-between;
+  &__info {
+    font-size: 16px;
+  }
+  h3 {
+    font-size: 20px;
+    cursor: pointer;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+.details_s {
+  width: 50%;
+  &__info {
+    font-size: 12px;
+  }
+  h3 {
+    font-size: 14px;
+    overflow-wrap: break-word;
+  }
+}

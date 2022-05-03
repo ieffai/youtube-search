@@ -11,28 +11,148 @@ export const songs = [
                 name: 'Lady Gaga - Judas (Official Music Video)',
                 views: '999676160',
                 likes: '1938373',
-                dislikes: '1627383'
+                dislikes: '1627383',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=wagn8Wrmzuc',
+                        name: 'Lady Gaga - Judas (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             },
             {
                 link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
                 name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
                 views: '27676609',
                 likes: '133624548',
-                dislikes: '1'
+                dislikes: '1',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=wagn8Wrmzuc',
+                        name: 'Lady Gaga - Judas (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             },
             {
                 link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
                 name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
                 views: '497176334609',
                 likes: '3733635',
-                dislikes: '272627'
+                dislikes: '272627',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=wagn8Wrmzuc',
+                        name: 'Lady Gaga - Judas (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             },
             {
                 link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
                 name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
                 views: '272626262',
                 likes: '29283',
-                dislikes: '39383'
+                dislikes: '39383',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=wagn8Wrmzuc',
+                        name: 'Lady Gaga - Judas (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             }
         ]
     },
@@ -48,28 +168,148 @@ export const songs = [
                 name: 'Lady Gaga - Judas (Official Music Video)',
                 views: '999676160',
                 likes: '1938373',
-                dislikes: '1627383'
+                dislikes: '1627383',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=wagn8Wrmzuc',
+                        name: 'Lady Gaga - Judas (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             },
             {
                 link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
                 name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
                 views: '27676609',
                 likes: '133624548',
-                dislikes: '1'
+                dislikes: '1',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=wagn8Wrmzuc',
+                        name: 'Lady Gaga - Judas (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             },
             {
                 link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
                 name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
                 views: '497176334609',
                 likes: '3733635',
-                dislikes: '272627'
+                dislikes: '272627',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=wagn8Wrmzuc',
+                        name: 'Lady Gaga - Judas (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             },
             {
                 link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
                 name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
                 views: '272626262',
                 likes: '29283',
-                dislikes: '39383'
+                dislikes: '39383',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=wagn8Wrmzuc',
+                        name: 'Lady Gaga - Judas (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             }
         ]
     },
@@ -85,28 +325,148 @@ export const songs = [
                 name: 'Kelis - Milkshake (Official Music Video)',
                 views: '999676160',
                 likes: '1938373',
-                dislikes: '1627383'
+                dislikes: '1627383',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=6AwXKJoKJz4',
+                        name: 'Kelis - Milkshake (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             },
             {
                 link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
                 name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
                 views: '27676609',
                 likes: '133624548',
-                dislikes: '1'
+                dislikes: '1',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=6AwXKJoKJz4',
+                        name: 'Kelis - Milkshake (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             },
             {
                 link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
                 name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
                 views: '497176334609',
                 likes: '3733635',
-                dislikes: '272627'
+                dislikes: '272627',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=6AwXKJoKJz4',
+                        name: 'Kelis - Milkshake (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             },
             {
                 link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
                 name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
                 views: '272626262',
                 likes: '29283',
-                dislikes: '39383'
+                dislikes: '39383',
+                'relatedPlaylists': [
+                    {
+                        link: 'https://www.youtube.com/watch?v=6AwXKJoKJz4',
+                        name: 'Kelis - Milkshake (Official Music Video)',
+                        views: '999676160',
+                        likes: '1938373',
+                        dislikes: '1627383'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=LCH1AsUydSc',
+                        name: 'Swedish House Mafia - Miami 2 Ibiza ft. Tinie Tempah (Official Video)',
+                        views: '27676609',
+                        likes: '133624548',
+                        dislikes: '1'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=GuAtcpFQpMw',
+                        name: 'Sebastian Ingrosso, Tommy Trash, John Martin - Reload (Official Video)',
+                        views: '497176334609',
+                        likes: '3733635',
+                        dislikes: '272627'
+                    },
+                    {
+                        link: 'https://www.youtube.com/watch?v=1y6smkh6c-0',
+                        name: 'Swedish House Mafia ft. John Martin - Dont You Worry Child (Official Video)',
+                        views: '272626262',
+                        likes: '29283',
+                        dislikes: '39383'
+                    }
+                ]
             }
         ]
     }]

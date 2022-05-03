@@ -8,6 +8,7 @@ const CardList = ({ data }) => {
                 <Card
                     key={item.link}
                     {...item}
+                    size={'big'}
                 />
             ))}
 

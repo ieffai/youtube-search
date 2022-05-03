@@ -23,4 +23,15 @@ body {
 .page {
   display: flex;
   padding: 25px;
+  background-color: $background-color;
+  height: 87vh;
+}
+
+.linkedPage {
+  display: flex;
+}
+.notFound {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

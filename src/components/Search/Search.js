@@ -2,9 +2,15 @@ import React, { memo, useState } from 'react'
 import { SEARCH_PLACEHOLDER } from '../../utils/consts';
 import classes from './Search.module.scss';
 import { SEARCH_ICON } from '../../utils/images';
+import { useDispatch } from 'react-redux';
+import { setSearch } from '../../redux/app/slice';
+import { useNavigate } from 'react-router-dom';
+import { HOME_ROUTE } from '../../routes/routesConsts';
 
 
 const Search = () => {
+    const dispatch = useDispatch();
+    const navigate = useNavigate();
     const [value, setValue] = useState('')
 
     const searchHandler = (e) => {
@@ -12,7 +18,8 @@ const Search = () => {
     }
 
     const clickHandler = () => {
-        alert('click')
+        dispatch(setSearch(value));
+        navigate(HOME_ROUTE);
     }
 
     return (

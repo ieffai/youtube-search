@@ -1,13 +1,13 @@
 import React from 'react'
 import { useSelector } from 'react-redux';
-import { getInitialSongsSelector } from '../../redux/app/selectors';
+import { getSongsSelector } from '../../redux/app/selectors';
 import CardList from '../../components/CardList/CardList'
 
 const Home = () => {
-    const initialSongs = useSelector(getInitialSongsSelector);
+    const songs = useSelector(getSongsSelector);
     return (
         <div className='page'>
-            <CardList data={initialSongs} />
+            <CardList data={songs} />
         </div>
     )
 }
